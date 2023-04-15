@@ -25,4 +25,4 @@ let val2 = null;
 console.log(typeof val2);
 
 let myNum = 1000;
-console.log(typeof myNum);
+document.write(typeof myNum);
